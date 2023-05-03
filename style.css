@@ -4,3 +4,7 @@ body{
 	padding: 15;
 	background-color: red;
 }
+
+p {
+	font-family: "times new roman", sans-serif;
+}
